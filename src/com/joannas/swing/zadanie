@@ -1,0 +1,8 @@
+1. stworzyc plik z rozszerzeniem csv, kilka tłumaczeń w formacie słóko_po_angielsku,polskie_tłumaczenia(moze byc wiecej niz jedno)
+2. kontroler bedzie dzialac na modelu danych dzieki DAO (data access object), dao komunikuje sie z baza danych i tworzy model danych
+3. zamodelowac obiekt ze slownika, zamodelowac "cos" co bedzie trzymalo zbior obiektow. (dictionary, ktory bedzie zbiorem slowek i tlumaczen)
+klasa z haslem i klasa dictionary
+
+Data Access Object jest interfejsem
+
+Dodac przycisk start, wyzerować score, ukryć jedynki, wylosować slowo po angielsku ze slownika
